@@ -120,7 +120,7 @@ FEATURES
 
 ---
 
-If the **Grounded-Profile-Auditor** were adopted by AI labs for professional implementation, the ramp schedule would shift from a "Static Release" to a rigorous **Deployment & Integration Lifecycle**. 
+If a proposed **Grounded-Profile-Auditor** were adopted by AI labs for professional implementation, the ramp schedule would shift from a "Static Release" to a rigorous **Deployment & Integration Lifecycle**. 
 
 ### 📅 PROPOSED PRODUCTION RAMP SCHEDULE (Lab Implementation)
 
