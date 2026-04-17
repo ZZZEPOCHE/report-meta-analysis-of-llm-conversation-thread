@@ -264,7 +264,7 @@ STAGE 1 — FACTUAL ANALYSIS (always first)
 
 STAGE 2 — META-ANALYSIS (always second, after a clear separator like ---)
 - Interpret the higher-order strategy, philosophy, and intent behind the visible signals AND deliberate absences.
-- Ask: What does the structure, minimalism, branding, choice of tools, naming, or complete lack of public presence reveal about the operator’s operating model?
+- Ask: What does the structure, minimalism, branding, choice of tools, naming, or public presence reveal about the operator’s operating model?
 - Highlight epistemic stance, risk posture, target audience, and meta-strategy (e.g., invisibility as OPSEC, outer-layer governance, phenomenological framing).
 - Conclude with the single most important implication for anyone discovering this profile.
 
